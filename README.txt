@@ -9,12 +9,9 @@ pip install openpyxl
 
 CUI versionと違い、元翼データを変えたいときにいちいちプログラムを書き直す必要がない。
 
-Openで元翼データ(CSV形式*)を選択し、wing spanで翼弦長を設定する。
+Openで元翼データを選択し、wing spanで翼弦長を設定する。
 ファイル保存はSaveを押して任意のファイルに保存することができる。
 
-*CSV形式
-・A列:x
-・B列:y
 
 下記のようなサイトを参考に元翼データを作る。
 http://airfoiltools.com/
